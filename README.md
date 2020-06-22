@@ -1,9 +1,4 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Formulrio_animado_com_JS_puro_e_CSS_Animation_0"></a>Formulário animado com JS puro e CSS Animation</h1>
-
-## 🖼 Screenshot
-
-<img src="https://prnt.sc/t40c0a">
-
 <p class="has-line-data" data-line-start="2" data-line-end="3">Autor.</p>
 <ul>
 <li class="has-line-data" data-line-start="4" data-line-end="6">Jessé Ávila</li>
