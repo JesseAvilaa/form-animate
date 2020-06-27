@@ -1,27 +1,32 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Formulrio_animado_com_JS_puro_e_CSS_Animation_0"></a>Formulário animado com JS puro e CSS Animation</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Formulrio_animado_com_JS_puro_e_CSS_Animation_0"></a>Animated form with pure JS and CSS Animation</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3">Autor.</p>
 <ul>
 <li class="has-line-data" data-line-start="4" data-line-end="6">Jessé Ávila</li>
 </ul>
-<h1 class="code-line" data-line-start=6 data-line-end=7 ><a id="Desafios_6"></a>Desafios!</h1>
+<h1 class="code-line" data-line-start=6 data-line-end=7 ><a id="Desafios_6"></a>Challenges!</h1>
 <ul>
-<li class="has-line-data" data-line-start="8" data-line-end="9"><input type="checkbox" id="checkbox160" checked="true"><label for="checkbox160">Fazer o formulário aparecer, suavemente, quando a página abrir</label></li>
-<li class="has-line-data" data-line-start="9" data-line-end="10"><input type="checkbox" id="checkbox161" checked="true"><label for="checkbox161">Fazer os campos aparecem da esquerda pra direita, suavizando a entrada e fazendo-os entrar em momentos distintos</label></li>
-<li class="has-line-data" data-line-start="10" data-line-end="11"><input type="checkbox" id="checkbox162" checked="true"><label for="checkbox162">Quando clicar em Login, fazer o formulário sair da tela, indo para baixo</label></li>
-<li class="has-line-data" data-line-start="11" data-line-end="12"><input type="checkbox" id="checkbox163" checked="true"><label for="checkbox163">Remover formulário do html e não mostrar rolagem enquanto o formulário está saindo da tela</label></li>
-<li class="has-line-data" data-line-start="12" data-line-end="13"><input type="checkbox" id="checkbox164" checked="true"><label for="checkbox164">Adicionar um efeito diferente de timing para a saída do formulário</label></li>
-<li class="has-line-data" data-line-start="13" data-line-end="14"><input type="checkbox" id="checkbox165" checked="true"><label for="checkbox165">Fazer o formulário dizer não-não (vibrar) caso haja campos vazios.</label></li>
-<li class="has-line-data" data-line-start="14" data-line-end="15"><input type="checkbox" id="checkbox166" checked="true"><label for="checkbox166">Criar alguns quadrados animados e que saem de baixo da tela e vão para cima da tela.</label></li>
-<li class="has-line-data" data-line-start="15" data-line-end="17"><input type="checkbox" id="checkbox167" checked="true"><label for="checkbox167">Detalhes: Deve ter tamanhos diferentes, sairem em momentos diferentes, terem timing diferente, animação contínua.</label></li>
+<li class="has-line-data" data-line-start="8" data-line-end="9"><input type="checkbox" id="checkbox160" checked="true"><label for="checkbox160">
+Make the form appear smoothly when the page opens</label></li>
+<li class="has-line-data" data-line-start="9" data-line-end="10"><input type="checkbox" id="checkbox161" checked="true"><label for="checkbox161">
+Making fields appear from left to right, smoothing the entry and making them enter at different times</label></li>
+<li class="has-line-data" data-line-start="10" data-line-end="11"><input type="checkbox" id="checkbox162" checked="true"><label for="checkbox162">When you click on Login, make the form leave the screen, going down</label></li>
+<li class="has-line-data" data-line-start="11" data-line-end="12"><input type="checkbox" id="checkbox163" checked="true"><label for="checkbox163">Remove form from html and don't show scrolling while the form is leaving the screen</label></li>
+<li class="has-line-data" data-line-start="12" data-line-end="13"><input type="checkbox" id="checkbox164" checked="true"><label for="checkbox164">
+Add a different timing effect to the form's output</label></li>
+<li class="has-line-data" data-line-start="13" data-line-end="14"><input type="checkbox" id="checkbox165" checked="true"><label for="checkbox165">Make the form say no-no (vibrate) if there are empty fields</label></li>
+<li class="has-line-data" data-line-start="14" data-line-end="15"><input type="checkbox" id="checkbox166" checked="true"><label for="checkbox166">
+Create some animated squares that come out from below the screen and go up to the screen</label></li>
+<li class="has-line-data" data-line-start="15" data-line-end="17"><input type="checkbox" id="checkbox167" checked="true"><label for="checkbox167">Details: Must have different sizes, come out at different times, have different timing, continuous animation.</label></li>
 </ul>
 <blockquote>
-<p class="has-line-data" data-line-start="17" data-line-end="24">O que eu ganhei de conhecimento fazendo este desafio?<br>
-Bom ganhei muito conhecimento na área de animações<br>
-com o Javascript totalmente puro.<br>
-Isso me fez conseguir criar outras animações<br>
-para meus projetos.<br>
-Só tenho a agraceder ao Mayk Brito por me passar<br>
-este seu conhecimento.</p>
+<p class="has-line-data" data-line-start="17" data-line-end="24">What I gained from doing this challenge?<br>
+
+Well I gained a lot of knowledge in the area of animations<br>
+with totally pure Javascript.<br>
+That made me able to create other animations<br>
+for my projects.<br>
+I can only thank Mayk Brito for passing me<br>
+this your knowledge.</p>
 </blockquote>
 <h3 class="code-line" data-line-start=26 data-line-end=27 ><a id="References_26"></a>References</h3>
 <ul>
